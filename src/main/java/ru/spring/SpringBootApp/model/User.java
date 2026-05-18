@@ -24,7 +24,6 @@ public class User {
     @Column(name = "age")
     private Long age;
 
-
     public User() {
     }
 
